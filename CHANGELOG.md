@@ -4,6 +4,16 @@
 
 ---
 
+## 2026-06-25
+
+### 🎨 مهارة creative-ideation (اختيارية جديدة)
+- مكتبة من 22 منهجية إبداعية من فنانين ومفكرين لتوليد الأفكار
+- تحلل الـ prompt وتوجهه عبر المنهجية المناسبة (توليد، توسيع، اختيار، فك العوائق)
+- رابط: [SKILL.md](https://github.com/NousResearch/hermes-agent/blob/main/optional-skills/creative/creative-ideation/SKILL.md)
+- ✅ تم التثبيت المحلي: `hermes skills install --yes --category creative`
+
+---
+
 ## 2026-06-24
 
 ### 🐾 ميزة الحيوانات الأليفة المتحركة (Animated Pets / Petdex)
